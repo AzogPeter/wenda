@@ -1,7 +1,7 @@
 package com.nowcoder.model;
 
 /**
- * Created by nowcoder on 2016/7/9.
+ * Created by Azog on 2019/5/30.
  */
 public class EntityType {
     public static int ENTITY_QUESTION = 1;

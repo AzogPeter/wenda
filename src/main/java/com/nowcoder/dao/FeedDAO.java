@@ -1,13 +1,13 @@
 package com.nowcoder.dao;
 
-import com.nowcoder.model.Comment;
+
 import com.nowcoder.model.Feed;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;
 
 /**
- * Created by nowcoder on 2016/7/2.
+ * Created by Azog on 2019/5/30.
  */
 @Mapper
 public interface FeedDAO {

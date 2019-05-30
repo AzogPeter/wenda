@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by rainday on 16/6/30.
+ * Created by Azog on 2019/5/30.
  */
 public class ViewObject {
     private Map<String, Object> objs = new HashMap<String, Object>();

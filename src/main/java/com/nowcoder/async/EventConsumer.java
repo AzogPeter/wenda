@@ -15,10 +15,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.concurrent.BlockingQueue;
+
 
 /**
- * Created by nowcoder on 2016/7/30.
+ * Created by Azog on 2019/5/30.
  */
 @Service
 public class EventConsumer implements InitializingBean, ApplicationContextAware {

@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * Created by nowcoder on 2016/7/24.
+ * Created by Azog on 2019/5/30.
  */
 class MyThread extends Thread {
     private int tid;

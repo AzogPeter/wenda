@@ -17,7 +17,7 @@ import java.util.Map;
 import java.util.Properties;
 
 /**
- * Created by nowcoder on 2016/7/15. // course@nowcoder.com NKnk66
+ * Created by Azog on 2019/5/30.
  */
 @Service
 public class MailSender implements InitializingBean {

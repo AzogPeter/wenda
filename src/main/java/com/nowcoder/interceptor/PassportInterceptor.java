@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.Date;
 
 /**
- * Created by nowcoder on 2016/7/3.
+ * Created by Azog on 2019/5/30.
  */
 @Component
 public class PassportInterceptor implements HandlerInterceptor {

@@ -1,11 +1,9 @@
 package com.nowcoder.controller;
 
-import com.nowcoder.async.EventModel;
-import com.nowcoder.async.EventProducer;
-import com.nowcoder.async.EventType;
+
 import com.nowcoder.model.*;
 import com.nowcoder.service.*;
-import com.nowcoder.util.WendaUtil;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,11 +14,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.ArrayList;
-import java.util.Date;
+
 import java.util.List;
 
 /**
- * Created by nowcoder on 2016/7/24.
+ * Created by Azog on 2019/5/30.
  */
 @Controller
 public class SearchController {

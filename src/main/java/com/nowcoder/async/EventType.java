@@ -1,7 +1,7 @@
 package com.nowcoder.async;
 
 /**
- * Created by nowcoder on 2016/7/30.
+ * Created by Azog on 2019/5/30.
  */
 public enum EventType {
     LIKE(0),
